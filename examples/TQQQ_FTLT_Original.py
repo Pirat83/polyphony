@@ -1,6 +1,6 @@
 import yfinance as yf
 import pandas as pd
-import pandas_ta as ta
+import pandas_ta_classic as ta
 
 # Copied from Walter.Sanders (whsmacon) in Dicord
 # https://discord.com/channels/1018958699991138386/1019589796802351106/1191919999607132270
