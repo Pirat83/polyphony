@@ -1,8 +1,8 @@
 alpaca-py
 matplotlib
 numpy
-pandas==2.2.0
-pandas_ta==0.3.14b0
+pandas>=2.2.2
+pandas-ta-classic
 pytest==8.0.0
 Requests==2.31.0
 seaborn
