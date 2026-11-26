@@ -3,7 +3,7 @@ matplotlib
 numpy
 pandas>=2.2.2
 pandas-ta-classic
-pytest==8.0.0
+pytest==9.0.3
 Requests==2.33.0
 seaborn
 yfinance==0.2.36
